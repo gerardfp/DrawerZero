@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/options1Fragment"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="Options 1" />
+    <item
+        android:id="@+id/options2Fragment"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="Options 2" />
+    <item
+        android:id="@+id/options3Fragment"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="Options 3" />
+</menu>
