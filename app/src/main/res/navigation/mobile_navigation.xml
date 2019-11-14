@@ -50,4 +50,14 @@
         android:name="com.company.drawerzero.Options3Fragment"
         android:label="fragment_options3"
         tools:layout="@layout/fragment_options3" />
+    <fragment
+        android:id="@+id/pageAFragment"
+        android:name="com.company.drawerzero.PageAFragment"
+        android:label="fragment_page_a"
+        tools:layout="@layout/fragment_page_a" />
+    <fragment
+        android:id="@+id/pageBFragment"
+        android:name="com.company.drawerzero.PageBFragment"
+        android:label="fragment_page_b"
+        tools:layout="@layout/fragment_page_b" />
 </navigation>
